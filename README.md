@@ -1,4 +1,4 @@
-### Oi👋, eu sou a Ajulha
+### Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, eu sou a Ajulha
 
 🔭 Buscando conhecimento... <br>
 🌱 Estudando Java Script <br>
@@ -25,3 +25,5 @@
   <a href="linkedin.com/in/ajulha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"           target="_blank"></a>
   <a href = "mailto:jcosta.priv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
 </div>
+
+  
