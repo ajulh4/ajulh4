@@ -1,4 +1,4 @@
-### Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, eu sou a Ajulha
+### Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, eu sou a ajulha
 
 🔭 Buscando conhecimento... <br>
 🌱 Estudando Java Script <br>
