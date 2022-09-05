@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/ajulh4">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ajulh4&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajulh4&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ajulh4&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajulh4&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -24,6 +24,4 @@
 <div> 
   <a href="linkedin.com/in/ajulha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"           target="_blank"></a>
   <a href = "mailto:jcosta.priv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank</a>
- 
-   ![Snake animation](https://github.com/ajulh4/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
