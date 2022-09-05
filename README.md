@@ -3,7 +3,7 @@
 🔭 Buscando conhecimento... <br>
 🌱 Estudando Java Script <br>
 💻 Colaboradora do @cupcode_ (projeto de pesquisa) <br>
-😄 Pronouns: Ela/Dela <br>
+😄 Pronomes: Ela/Dela <br>
 ⚡ Curiosidade: odeio programar :D
 
 <div>
